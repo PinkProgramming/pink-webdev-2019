@@ -38,7 +38,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 - Create a small Hello world -app in React using `create-react-app`.
 
 ### Resources
-- Fullstack open course chapter 0 (React basics).
+- [Fullstack open course chapter 0](https://fullstackopen.com/en/part1/introduction_to_react) (React basics).
 
 ### Homework
 
@@ -62,10 +62,11 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ## Week 6
 ### Learning objectives
-- Build a simple REST api with Node and MongoDB (Fullstack open chapter 3)
+- Build a simple REST api with Node and MongoDB
 
 ### Resources
-- Atlas MongoDB
+- [Fullstack open course chapter 3](https://fullstackopen.com/en/part3)
+- [Atlas MongoDB](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#mongo-db)
 
 ### Homework
 
