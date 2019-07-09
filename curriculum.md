@@ -2,12 +2,13 @@
 The course consists of 10 weeks, during which participants study on their own and with the support of mentors. Students are expected to spend approximately 20hrs on the course materials per week. 
 Every week has one lesson which will be held at ___ in Malmö. The lessons consist of walking through the homework and digging into the topics of the week.
 
-## Week 1 
+## Week 1: Installation and kickoff
 ### Learning objectives
 - Hello world of HTML and CSS
 - Find your command line
 - Create GitHub account and install git
 - Install VS Code
+- Install NodeJS and npm
 
 ### Resources
 [HTML & CSS Intro (video)](https://www.youtube.com/watch?v=kLO4X_3VYdg)
@@ -17,7 +18,7 @@ Every week has one lesson which will be held at ___ in Malmö. The lessons consi
 ### Homework
 FreeCodeCamp intro to HTML and CSS.
 
-## Week 2
+## Week 2: Hello, internet!
 ### Learning objectives
 - How the internet works
 - Intro to JS
@@ -36,6 +37,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 ## Week 3
 ### Learning objectives
 - Create a small Hello world -app in React using `create-react-app`.
+- Version control: Learn git branching
 
 ### Resources
 - [Fullstack open course chapter 0](https://fullstackopen.com/en/part1/introduction_to_react) (React basics).

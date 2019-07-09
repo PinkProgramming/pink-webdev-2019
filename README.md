@@ -1,7 +1,7 @@
 # Pink Web Dev 2019
 This project contains resources and ideas for the Pink Web Dev course that will be held during autumn 2019. 
 
-# License
+## License
 
 All content linked or referenced from Full Stack Open is licensed under [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
