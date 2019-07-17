@@ -1,5 +1,6 @@
 # Pink Web Dev 2019
-This project contains resources and ideas for the Pink Web Dev course that will be held during autumn 2019. 
+Curriculum and resources for the Pink Programming Bootcamp in Malmö during autumn 2019
+
 
 ## License
 
