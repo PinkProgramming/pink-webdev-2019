@@ -39,7 +39,41 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 3: React applications!
+## Week 3: More JavaScript and the DOM
+### Learning objective
+- Complementary JS skills for working with the DOM: 
+   - functions
+   - objects and arrays
+   - events
+   - math functions
+   - this/context
+   - jquery
+   - local storage
+
+### Resources
+- [Front-end JS (Beetroot)](https://beetroot.academy/en/courses/front-end/#module2)
+
+~~Homework~~ (20-40hr practice from Beetroot)
+
+
+---
+
+## Week 4: More JavaScript basics
+### Learning objective
+- Demystifying scopes, closures, regex, es6+, OOP
+
+### Resources
+- [Advanced JavaScript (Beetroot)](https://beetroot.academy/en/courses/advanced-javascript/#module1)
+
+~~Homework~~ (20-32hr practice from Beetroot)
+
+---
+
+## Week 5: No-new-assignment week
+
+---
+
+## Week 6: React applications!
 ### Learning objectives
 - Create a small Hello world -app in React using `create-react-app`.
 - Version control: Learn git branching
@@ -52,7 +86,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 4: Databases and more JavaScript
+## Week 7: Databases and more JavaScript
 ### Learning objectives
 - Intro to Databases (relational and NoSQL)
 - Clean code: what are good coding practices?
@@ -67,7 +101,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 5: Digging deeper into React
+## Week 8: Digging deeper into React
 ### Learning objectives
 
 ### Resources
@@ -80,7 +114,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 6: NodeJS basics
+## Week 9: NodeJS basics
 ### Learning objectives
 - Strengthen JS skills and knowledge around common fetch usages
   - Familiarity with simple HTTP request structure
@@ -103,7 +137,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 7: Digging into UI/UX
+## Week 10: Digging into UI/UX
 ### Learning objectives
 - Deepen CSS skills
 - Prototyping basics
@@ -115,7 +149,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 8: Portfolio project 1 - Todo (React)
+## Week 11: Portfolio project 1 - Todo (React)
 ### Learning objectives
 - Deepening understanding of React.
 - Do your first code review of others code.
@@ -128,7 +162,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 9: Portfolio project 2 - Blog API (NodeJS + MongoDB)
+## Week 12: Portfolio project 2 - Blog API (NodeJS + MongoDB)
 ### Learning objectives
 - Basics of infosec.
 
@@ -139,7 +173,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 10: Testing the previous portfolio projects
+## Week 13: Testing the previous portfolio projects
 ### Learning objectives
 - Learn testing with Jest.
 - API tests with supertest.
