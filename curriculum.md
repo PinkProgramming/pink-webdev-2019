@@ -58,7 +58,9 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 - Clean code: what are good coding practices?
 
 ### Resources
-- [Start creating databases! (Khan Academy)](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
+- [Start creating SQL databases! (Khan Academy)](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql) =1hr
+- [MongoDB install, CRUD, logic, query, Mongoose (Beetroot)](https://beetroot.academy/en/courses/node-js/#module8) =1week
+   - requirements: HTML, CSS, JS, React
 
 ### Homework
 - Create code review checklist (add to GitHub as `.md`-files)
