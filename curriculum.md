@@ -144,8 +144,11 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 - Typography and color schema basics
 
 ### Resources
+- [Beetroot Theory - UX, Figma, UI](https://beetroot.academy/en/courses/ui-ux-design-junior/) =6-9hrs video
+- [Beetroot FrontEnd-practice - Module 1](https://beetroot.academy/en/courses/front-end/#module1) = 20-60hrs practice
 
 ### Homework 
+
 
 ---
 
