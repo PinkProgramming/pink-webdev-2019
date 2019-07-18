@@ -82,9 +82,18 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ## Week 6: NodeJS basics
 ### Learning objectives
+- Strengthen JS skills and knowledge around common fetch usages
+  - Familiarity with simple HTTP request structure
+  - At least 1 async JS programming technique
+- Demystifying NPM
+   - Important distinctions between client code and server code
+   - Modules as a clean code practice
 - Build a simple REST api with Node and MongoDB
 
 ### Resources
+- [Beetroot Module 5 - Asynchronous JavaScript](https://beetroot.academy/en/courses/node-js/#module5)
+- [Beetroot Module 6 - HTTP Requests](https://beetroot.academy/en/courses/node-js/#module6)
+- [Beetroot Module 1 - NodeJS program basics](https://beetroot.academy/en/courses/node-js/#module1)
 - [Fullstack open course chapter 3](https://fullstackopen.com/en/part3)
 - [Atlas MongoDB](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#mongo-db)
 
