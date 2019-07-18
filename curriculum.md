@@ -146,5 +146,5 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 - Add documentation.
 
 ### Resources
-
+- [Beetroot - Advanced JS - module 2 - topic 7](https://beetroot.academy/en/courses/advanced-javascript/#module2) =6hrs course material
 
