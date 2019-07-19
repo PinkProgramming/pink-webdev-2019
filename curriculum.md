@@ -53,7 +53,8 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 ### Resources
 - [Front-end JS (Beetroot)](https://beetroot.academy/en/courses/front-end/#module2)
 
-~~Homework~~ (20-40hr practice from Beetroot)
+### Homework 
+ - Beetroot Practice (20-40hr)
 
 
 ---
@@ -65,7 +66,8 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 ### Resources
 - [Advanced JavaScript (Beetroot)](https://beetroot.academy/en/courses/advanced-javascript/#module1)
 
-~~Homework~~ (20-32hr practice from Beetroot)
+### Homework 
+ - Beetroot Practice (20-32hr)
 
 ---
 
