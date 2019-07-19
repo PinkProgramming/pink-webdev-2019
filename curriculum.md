@@ -47,7 +47,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
    - events
    - math functions
    - this/context
-   - jquery
+   - vanillaJS dom manipulation
    - local storage
 
 ### Resources
