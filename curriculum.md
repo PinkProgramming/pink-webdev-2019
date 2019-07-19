@@ -39,7 +39,47 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 3: React applications!
+## Week 3: More JavaScript and the DOM
+### Learning objective
+- Complementary JS skills for working with the DOM: 
+   - functions
+   - objects and arrays
+   - events
+   - math functions
+   - this/context
+   - vanillaJS dom manipulation
+   - local storage
+
+### Resources
+- [Front-end JS (Beetroot)](https://beetroot.academy/en/courses/front-end/#module2)
+
+### Homework 
+ - Beetroot Practice (20-40hr)
+
+
+---
+
+## Week 4: More JavaScript basics
+### Learning objective
+- Demystifying scopes, closures, regex, es6+, OOP
+
+### Resources
+- [Advanced JavaScript (Beetroot)](https://beetroot.academy/en/courses/advanced-javascript/#module1)
+
+### Homework 
+ - Beetroot Practice (20-32hr)
+
+---
+
+## Week 5: No-new-assignment week
+
+### Learning objectives
+- Students can improve on weak topics or catch up from absense
+- Extra focus on mentorship, guidance and networking
+
+---
+
+## Week 6: React applications!
 ### Learning objectives
 - Create a small Hello world -app in React using `create-react-app`.
 - Version control: Learn git branching
@@ -52,20 +92,22 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 4: Databases and more JavaScript
+## Week 7: Databases and more JavaScript
 ### Learning objectives
 - Intro to Databases (relational and NoSQL)
 - Clean code: what are good coding practices?
 
 ### Resources
-- [Start creating databases! (Khan Academy)](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
+- [Start creating SQL databases! (Khan Academy)](https://www.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql) =1hr
+- [MongoDB install, CRUD, logic, query, Mongoose (Beetroot)](https://beetroot.academy/en/courses/node-js/#module8) =1week
+   - requirements: HTML, CSS, JS, React
 
 ### Homework
 - Create code review checklist (add to GitHub as `.md`-files)
 
 ---
 
-## Week 5: Digging deeper into React
+## Week 8: Digging deeper into React
 ### Learning objectives
 
 ### Resources
@@ -78,11 +120,20 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 6: NodeJS basics
+## Week 9: NodeJS basics
 ### Learning objectives
+- Strengthen JS skills and knowledge around common fetch usages
+  - Familiarity with simple HTTP request structure
+  - At least 1 async JS programming technique
+- Demystifying NPM
+   - Important distinctions between client code and server code
+   - Modules as a clean code practice
 - Build a simple REST api with Node and MongoDB
 
 ### Resources
+- [Beetroot Module 5 - Asynchronous JavaScript](https://beetroot.academy/en/courses/node-js/#module5)
+- [Beetroot Module 6 - HTTP Requests](https://beetroot.academy/en/courses/node-js/#module6)
+- [Beetroot Module 1 - NodeJS program basics](https://beetroot.academy/en/courses/node-js/#module1)
 - [Fullstack open course chapter 3](https://fullstackopen.com/en/part3)
 - [Atlas MongoDB](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#mongo-db)
 
@@ -92,19 +143,22 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 7: Digging into UI/UX
+## Week 10: Digging into UI/UX
 ### Learning objectives
 - Deepen CSS skills
 - Prototyping basics
 - Typography and color schema basics
 
 ### Resources
+- [Beetroot Theory - UX, Figma, UI](https://beetroot.academy/en/courses/ui-ux-design-junior/) =6-9hrs video
+- [Beetroot FrontEnd-practice - Module 1](https://beetroot.academy/en/courses/front-end/#module1) = 20-60hrs practice
 
 ### Homework 
 
+
 ---
 
-## Week 8: Portfolio project 1 - Todo (React)
+## Week 11: Portfolio project 1 - Todo (React)
 ### Learning objectives
 - Deepening understanding of React.
 - Do your first code review of others code.
@@ -117,7 +171,7 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 9: Portfolio project 2 - Blog API (NodeJS + MongoDB)
+## Week 12: Portfolio project 2 - Blog API (NodeJS + MongoDB)
 ### Learning objectives
 - Basics of infosec.
 
@@ -128,12 +182,12 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ---
 
-## Week 10: Testing the previous portfolio projects
+## Week 13: Testing the previous portfolio projects
 ### Learning objectives
 - Learn testing with Jest.
 - API tests with supertest.
 - Add documentation.
 
 ### Resources
-
+- [Beetroot - Advanced JS - module 2 - topic 7](https://beetroot.academy/en/courses/advanced-javascript/#module2) =6hrs course material
 
