@@ -71,6 +71,10 @@ Here are some basic programming videos that are pretty good, but are done in Pyt
 
 ## Week 5: No-new-assignment week
 
+### Learning objectives
+- Students can improve on weak topics or catch up from absense
+- Extra focus on mentorship, guidance and networking
+
 ---
 
 ## Week 6: React applications!
